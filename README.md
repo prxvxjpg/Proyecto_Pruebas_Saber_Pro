@@ -15,3 +15,10 @@ Para el desarrollo del proyecto se emplean las siguientes librerías: pandas y n
 Palabras Clave: Análisis de Correspondencias Múltiples, Análisis Multivariado, Análisis de Componentes Principales, Regresión lineal múltiple, Modelación Predictiva.
 
 ---
+
+
+
+## 🚀 Ejecución Rápida
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1pLhx_co9ANu086yDssXE4LXE5HiL29oq/view?usp=sharing) *(para visualizar y ejecutar los códigos)*
+
+- `PoblacionYNatalidadBogotaAnalisisDeDatosFinal.ipynb` archivo .ipynb del proyecto
