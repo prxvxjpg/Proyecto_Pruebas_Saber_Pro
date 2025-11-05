@@ -5,6 +5,8 @@
 
 - `Filtracion_Pruebas_Saber_Pro.ipynb` archivo .ipynb del proyecto
 
+Importante descargar los datos `areasynucleos_sirveparafiltrar` que se utilizan en el código de filtración.
+
 
 ## 📖 Resumen
 En este proyecto se aplican métodos matemáticos y estadísticos del área de ciencia de datos para analizar el rendimiento de los estudiantes de Matemáticas y Ciencias Naturales que presentaron las pruebas Saber Pro genéricas y específicas entre 2016 y 2024. Con información oficial de DataIcfes ICFESData, se estudiará el desempeño en competencias de las 8 áreas de conocimiento y sus 56 núcleos, poniendo especial énfasis en Matemáticas y Ciencias Naturales, nuestro grupo de mayor interés. El objetivo es identificar patrones de rendimiento y realizar comparaciones socioacadémicas con estudiantes de otras áreas, aportando así una visión más clara sobre la formación matemática y científica en el contexto nacional.
