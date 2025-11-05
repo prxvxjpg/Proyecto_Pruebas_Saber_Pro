@@ -5,7 +5,7 @@
 
 - `Filtracion_Pruebas_Saber_Pro.ipynb` archivo .ipynb del proyecto
 
-Importante descargar los datos `areasynucleos_sirveparafiltrar` que se utilizan en el código de filtración.
+Importante descargar los datos `areasynucleos_sirveparafiltrar` que se encuentran en la carpeta Data_Preparation. El archivo se utiliza en el código de filtración.
 
 
 ## 📖 Resumen
