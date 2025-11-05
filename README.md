@@ -1,6 +1,10 @@
 # Análisis de las pruebas Saber Pro
 
-Publicación de la primera parte el próximo fin de semana:)
+## 🚀 Ejecución rápida para el código base de limpieza y preparación de los datos por año documentado:
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1pLhx_co9ANu086yDssXE4LXE5HiL29oq/view?usp=sharing) *(para visualizar y ejecutar los códigos)*
+
+- `Filtracion_Pruebas_Saber_Pro.ipynb` archivo .ipynb del proyecto
+
 
 ## 📖 Resumen
 En este proyecto se aplican métodos matemáticos y estadísticos del área de ciencia de datos para analizar el rendimiento de los estudiantes de Matemáticas y Ciencias Naturales que presentaron las pruebas Saber Pro genéricas y específicas entre 2016 y 2024. Con información oficial de DataIcfes ICFESData, se estudiará el desempeño en competencias de las 8 áreas de conocimiento y sus 56 núcleos, poniendo especial énfasis en Matemáticas y Ciencias Naturales, nuestro grupo de mayor interés. El objetivo es identificar patrones de rendimiento y realizar comparaciones socioacadémicas con estudiantes de otras áreas, aportando así una visión más clara sobre la formación matemática y científica en el contexto nacional.
@@ -18,7 +22,4 @@ Palabras Clave: Análisis de Correspondencias Múltiples, Análisis Multivariado
 
 
 
-## 🚀 Ejecución Rápida
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1pLhx_co9ANu086yDssXE4LXE5HiL29oq/view?usp=sharing) *(para visualizar y ejecutar los códigos)*
 
-- `PoblacionYNatalidadBogotaAnalisisDeDatosFinal.ipynb` archivo .ipynb del proyecto
