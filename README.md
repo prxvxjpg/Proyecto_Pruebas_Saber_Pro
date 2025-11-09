@@ -3,7 +3,6 @@
 ## 🚀 Ejecución rápida para el código base de limpieza y preparación de los datos por año documentado:
 [![Open in Colab](https://colab.research.google.com/drive/1vHNogcKZXdHwJZWoYb5o3_4-KhPmprr2?authuser=1) *(para visualizar y ejecutar los códigos)*
 
-
 - `Filtracion_Pruebas_Saber_Pro.ipynb` archivo .ipynb del proyecto
 
 Importante descargar los datos `areasynucleos_sirveparafiltrar` que se encuentran en la carpeta `Data_Preparation`. El archivo se utiliza en el código de filtración.
