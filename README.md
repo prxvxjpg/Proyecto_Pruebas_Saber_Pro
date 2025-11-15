@@ -1,7 +1,7 @@
 # Análisis de las pruebas Saber Pro
 
 ## 🚀 Link de ejecución rápida para el código base de limpieza y preparación de los datos por año documentado:
-https://colab.research.google.com/drive/1uE1rqMvCfUJ_2LsmLyTmnz1N-V4hkm2F?usp=sharing
+https://colab.research.google.com/drive/1AIe4LdyoFVHYP9tte5asQlRz2xHsQcRn?usp=sharing
  *(para visualizar y ejecutar los códigos)*
 
 - `Filtracion_Pruebas_Saber_Pro.ipynb` archivo .ipynb del proyecto
