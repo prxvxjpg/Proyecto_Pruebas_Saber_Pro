@@ -6,11 +6,14 @@ https://colab.research.google.com/drive/1AIe4LdyoFVHYP9tte5asQlRz2xHsQcRn?usp=sh
 
 - `Filtracion_Pruebas_Saber_Pro.ipynb` archivo .ipynb del proyecto
 
-Importante descargar los datos `areasynucleos_sirveparafiltrar` que se encuentran en la carpeta `Data_Preparation`, también debe descargar los datos de las pruebas específicas y genéricas que se encuentran en la siguiente carpeta de Drive:
+Importante:
+- Descargar los datos `areasynucleos_sirveparafiltrar` que se encuentran en la carpeta `Data_Preparation`, también debe descargar los datos de las pruebas específicas y genéricas que se encuentran en la siguiente carpeta de Drive:
 
 https://drive.google.com/drive/folders/1kRGfHPoHS0XW2EgKuTLKB8im2Rb9yXnE?usp=sharing
 
 Los archivos se utilizan en el código de filtración.
+
+Decargue o visualice también dentro del Drive el archivo `SeleccionDeColumnas.ipynb` si quiere entender por qué seleccionamos solamente 63 columnas de base de datos entre muchas que existen.
 
 
 ## 📖 Resumen
