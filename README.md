@@ -20,25 +20,103 @@ Puedes visualizar el documento PDF de las gráficas creadas aquí (De los algori
 - `prince`,  para análisis de correspondencias múltiples
 
 ---
-## 📊 Resultados destacados  
+## 📊 Resultados destacados del PCA & K-Means
 
 El análisis de 2.2 millones de registros reveló hallazgos clave sobre el desempeño académico a nivel nacional a lo largo de estos últimos nueve años:
 
-- **Cuatro perfiles estudiantiles identificados:**  
-  - *Cluster 0*: Estudiantes Promedio (37.6%), rendimiento medio, nivel socioeconómico bajo-medio.  
-  - *Cluster 1*: Estudiantes en Desventaja Académica (28.7%), menor rendimiento y estrato bajo.  
-  - *Cluster 2*: Estudiantes Adultos (12.9%), mayor edad, bajo índice socioeconómico.  
-  - *Cluster 3*: Estudiantes de Alto Rendimiento (20.8%), excelente desempeño, estrato medio-alto.  
 
-- **El 66.3% de los estudiantes** se ubican en clusters de rendimiento medio o bajo, evidenciando desigualdades socioacadémicas significativas.
+# 📊 Análisis Detallado de Componentes y Clusters
 
-- **Brecha en inglés de 61.3 puntos** entre los extremos de rendimiento, reflejando disparidades en competencias lingüísticas.
+## 🔍 **Análisis de Componentes Principales (PCA)**
 
-- **Paridad de género en habilidad académica**, aunque persiste segregación en la elección de disciplinas (menor presencia femenina en Física/Matemáticas).
+El análisis de varianza explicada confirma que **PC1 es el componente más importante (46.3%)**, seguido por **PC2 (14.7%)** y **PC3 (11.2%)**, representando colectivamente el **72.2%** de la varianza total.
 
-- **Programas aplicados** (Ciencias de la Computación, Ciencia de Datos) superan en rendimiento a Matemáticas puras en pruebas específicas.
+---
 
-- **Disparidades regionales marcadas:** Bogotá y Santander lideran en desempeño, mientras departamentos como Atlántico y Boyacá presentan promedios bajos.
+## 🎯 **Análisis Refinado de los Clusters Identificados**
+
+### **📈 Cluster 0 - "Estudiantes Promedio" (37.6%)**
+| **Característica** | **Valor** | **Interpretación** |
+|-------------------|-----------|-------------------|
+| **Centroide PCA** | (0.43, -0.39, 0.26) | Posición intermedia en el espacio de componentes |
+| **Rendimiento** | 153.35 puntos globales | Nivel académico medio |
+| **Nivel socioeconómico** | Estrato 2.24, INSE 51.37 | Bajo-medio |
+| **Edad promedio** | ~25 años (nacimiento 1995) | Población estudiantil típica |
+| **Fortalezas** | Inglés (154.71) y Lectura crítica (158.07) | Competencias lingüísticas sólidas |
+| **Interpretación** | Representan el grupo más numeroso del sistema educativo colombiano, con rendimiento sólido pero no excepcional |
+
+### **⚠️ Cluster 1 - "Estudiantes en Desventaja Académica" (28.7%)**
+| **Característica** | **Valor** | **Interpretación** |
+|-------------------|-----------|-------------------|
+| **Centroide PCA** | (-1.99, 0.41, 0.43) | Posición extrema en el primer componente |
+| **Rendimiento** | 121.42 puntos globales | El más bajo de todos los clusters |
+| **Nivel socioeconómico** | Estrato 2.10, INSE 50.36 | Bajo |
+| **Edad promedio** | ~26 años (nacimiento 1994) | Similar al cluster promedio |
+| **Debilidades** | Todos los módulos < 133 puntos | Dificultades académicas generalizadas |
+| **Interpretación** | Estudiantes que requieren mayor apoyo educativo y nivelación académica |
+
+### **👨‍🎓 Cluster 2 - "Estudiantes Adultos" (12.9%)**
+| **Característica** | **Valor** | **Interpretación** |
+|-------------------|-----------|-------------------|
+| **Centroide PCA** | (-1.48, -0.40, -1.59) | Posición única en el tercer componente |
+| **Rendimiento** | 133.96 puntos globales | Medio-bajo |
+| **Nivel socioeconómico** | Estrato 2.39, INSE 47.21 | El más bajo socioeconómicamente |
+| **Edad promedio** | ~40 años (nacimiento 1980) | Significativamente mayor |
+| **Característica única** | Mayor edad con rendimiento intermedio | Posiblemente estudiantes-trabajadores |
+| **Interpretación** | Estudiantes que retoman educación superior después de tiempo, con desafíos adicionales |
+
+### **🏆 Cluster 3 - "Estudiantes de Alto Rendimiento" (20.8%)**
+| **Característica** | **Valor** | **Interpretación** |
+|-------------------|-----------|-------------------|
+| **Centroide PCA** | (2.91, 0.39, -0.08) | Posición extrema opuesta al cluster 1 |
+| **Rendimiento** | 179.53 puntos globales | Excelente desempeño académico |
+| **Nivel socioeconómico** | Estrato 3.47, INSE 62.27 | Medio-alto, el más alto |
+| **Edad promedio** | ~24 años (nacimiento 1996) | Los más jóvenes |
+| **Fortalezas destacadas** | Inglés (193.87) y Competencias ciudadanas (179.47) | Dominio sobresaliente |
+| **Interpretación** | Estudiantes de élite académica, probablemente de universidades de alto prestigio |
+
+---
+
+## 🔑 **Patrones Clave Identificados**
+
+### 📉 **Brechas y Desigualdades**
+1. **Brecha socioeconómica evidente**: 
+   - Cluster 3 (alto rendimiento): Estrato 3.47
+   - Cluster 1 (bajo rendimiento): Estrato 2.10
+   - **Diferencia**: 1.37 estratos
+
+2. **Edad como factor influyente**:
+   - Los clusters más jóvenes (0 y 3) tienen mejor rendimiento
+   - El cluster adulto (2) muestra rendimiento medio-bajo a pesar de mayor experiencia
+
+3. **El inglés como mayor diferenciador**:
+   - Cluster 3: 193.87 puntos en inglés
+   - Cluster 1: 132.57 puntos en inglés
+   - **Brecha**: 61.3 puntos (la más grande entre todas las competencias)
+
+4. **Distribución académica desigual**:
+   - **66.3%** de estudiantes en clusters de rendimiento medio o bajo
+   - Solo **20.8%** en el cluster de alto rendimiento
+
+---
+
+## 🎓 **Recomendaciones Basadas en los Hallazgos**
+
+| **Cluster** | **Intervención Recomendada** | **Objetivo** |
+|------------|-----------------------------|--------------|
+| **Cluster 1** | Programas de nivelación académica y tutorías personalizadas | Reducir brechas de aprendizaje |
+| **Cluster 2** | Flexibilidad horaria y metodologías adaptadas a estudiantes adultos | Mejorar retención y desempeño |
+| **Cluster 0** | Mentorías para potenciar rendimiento medio a alto | Maximizar potencial académico |
+| **Cluster 3** | Programas de profundización y liderazgo académico | Desarrollar futuros investigadores |
+
+---
+
+## 📈 **Implicaciones para políticas educativas**
+
+1. **Focalización de recursos**: Dirigir apoyos a Clusters 1 y 2 donde las necesidades son mayores
+2. **Programas diferenciados**: Diseñar estrategias según perfil estudiantil identificado
+3. **Reducción de brechas**: Implementar acciones específicas para disminuir la brecha de inglés (61.3 puntos)
+4. **Sistemas de alerta temprana**: Usar estos perfiles para identificar estudiantes en riesgo académico
 
 ---
 
