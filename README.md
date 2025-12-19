@@ -17,7 +17,7 @@ Puedes visualizar el documento PDF aquí (De los algoritmos de ML solo tiene la 
 - `pandas`, `numpy` para manipulación de datos  
 - `scikit-learn` para PCA, K-Means y modelos de regresión  
 - `matplotlib`, `seaborn` para visualización  
-- `prince`,  para análisis de correspondencias múltiples y análisis de componentes principales
+- `prince`,  para análisis de correspondencias múltiples
 
 ---
 ## 📊 Resultados destacados  
