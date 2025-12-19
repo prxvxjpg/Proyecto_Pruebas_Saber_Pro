@@ -13,7 +13,7 @@ Puedes visualizar el documento PDF aquí (De los algoritmos de ML solo tiene la 
 [Ver PDF en Google Drive]([https://drive.google.com/...](https://drive.google.com/file/d/1N_lYwoT3htiYPBG9J1wVts9eYAcOV5eY/view?usp=drive_link))
 
 
-[![Ver PDF en Google Drive]([https://img.shields.io/badge/📄_Ver_Propuesta_Completa_PDF-FF6B6B?style=for-the-badge)](https://drive.google.com/file/d/1N_lYwoT3htiYPBG9J1wVts9eYAcOV5eY/view?usp=drive_link))
+[![Ver PDF en Google Drive]([https://img.shields.io/badge/📄_Ver_Propuesta_Completa_PDF-FF6B6B?style=for-the-badge)](https://drive.google.com/file/d/1N_lYwoT3htiYPBG9J1wVts9eYAcOV5eY/view?usp=drive_link)
 
 
 - `pandas`, `numpy` para manipulación de datos  
