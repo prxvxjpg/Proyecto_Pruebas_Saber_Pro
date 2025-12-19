@@ -73,9 +73,9 @@ El análisis de varianza explicada confirma que **PC1 es el componente más impo
 
 ---
 
-## 🔑 **Patrones Clave Identificados**
+### 🔑 **Patrones clave identificados**
 
-### 📉 **Brechas y Desigualdades**
+### 📉 **Brechas y desigualdades**
 1. **Brecha socioeconómica evidente**: 
    - Cluster 3 (alto rendimiento): Estrato 3.47
    - Cluster 1 (bajo rendimiento): Estrato 2.10
@@ -96,7 +96,7 @@ El análisis de varianza explicada confirma que **PC1 es el componente más impo
 
 ---
 
-## 🎓 **Recomendaciones Basadas en los Hallazgos**
+### 🎓 **Recomendaciones basadas en los hallazgos**
 
 | **Cluster** | **Intervención Recomendada** | **Objetivo** |
 |------------|-----------------------------|--------------|
@@ -107,7 +107,7 @@ El análisis de varianza explicada confirma que **PC1 es el componente más impo
 
 ---
 
-## 📈 **Implicaciones para políticas educativas**
+### 📈 **Implicaciones para políticas educativas**
 
 1. **Focalización de recursos**: Dirigir apoyos a Clusters 1 y 2 donde las necesidades son mayores
 2. **Programas diferenciados**: Diseñar estrategias según perfil estudiantil identificado
