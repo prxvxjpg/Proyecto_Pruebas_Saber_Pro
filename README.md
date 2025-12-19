@@ -7,7 +7,7 @@ En este estudio, analicé los resultados de las pruebas Saber Pro (2016-2024) de
 
 ## 🚀 Ejecución Rápida  
 Código de las gráficas descriptivas:
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wauMUdRgnjvel9Hyuc8ClFqEPCK2NRJe?usp=drive_link) *(el código todavía no se encuentra documentado, se subira bien documentado el 20 de Diciembre)*
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wauMUdRgnjvel9Hyuc8ClFqEPCK2NRJe?usp=drive_link) *(el código todavía no se encuentra documentado, se subirá bien documentado el 20 de Diciembre)*
 
 
 Puedes visualizar el documento PDF de las gráficas creadas aquí (De los algoritmos de ML solo tiene la gráfica del PCA, el día 20 de Diciembre se actualizará a su versión final con la página web del MCA): 
