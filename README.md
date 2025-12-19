@@ -25,7 +25,7 @@ Puedes visualizar el documento PDF de las gráficas creadas aquí (De los algori
 El análisis de 2.2 millones de registros reveló hallazgos clave sobre el desempeño académico a nivel nacional a lo largo de estos últimos nueve años:
 
 
-El análisis de varianza explicada confirma que **PC1 es el componente más importante (46.3%)**, seguido por **PC2 (14.7%)** y **PC3 (11.2%)**, representando colectivamente el **72.2%** de la varianza total.
+El análisis de varianza explicada confirma que **PC1 es el componente más importante (46.3%)**, seguido por **PC2 (14.7%)** y **PC3 (11.2%)**, representando colectivamente el **72.2%** de la varianza total (es decir que en una sola gráfica de tres dimensiones se encuentra el 72.2% de la información de los 2.2 millones de datos con 70 columnas).
 
 ---
 
