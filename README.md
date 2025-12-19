@@ -36,7 +36,7 @@ El análisis de varianza explicada confirma que **PC1 es el componente más impo
 |-------------------|-----------|-------------------|
 | **Rendimiento** | 153.35 puntos globales | Nivel académico medio |
 | **Nivel socioeconómico** | Estrato 2.24, INSE 51.37 | Bajo-medio |
-| **Edad promedio** | ~25 años (nacimiento 1995) | Población estudiantil típica |
+| **Fecha de nacimiento promedio** | Nacimiento 1995 | Población estudiantil típica |
 | **Fortalezas** | Inglés (154.71) y Lectura crítica (158.07) | Competencias lingüísticas sólidas |
 | **Interpretación** | Representan el grupo más numeroso del sistema educativo colombiano, con rendimiento sólido pero no excepcional |
 
@@ -45,7 +45,7 @@ El análisis de varianza explicada confirma que **PC1 es el componente más impo
 |-------------------|-----------|-------------------|
 | **Rendimiento** | 121.42 puntos globales | El más bajo de todos los clusters |
 | **Nivel socioeconómico** | Estrato 2.10, INSE 50.36 | Bajo |
-| **Edad promedio** | ~26 años (nacimiento 1994) | Similar al cluster promedio |
+| **Fecha de nacimiento promedio** | Nacimiento 1994 | Similar al cluster promedio |
 | **Debilidades** | Todos los módulos < 133 puntos | Dificultades académicas generalizadas |
 | **Interpretación** | Estudiantes que requieren mayor apoyo educativo y nivelación académica |
 
@@ -54,7 +54,7 @@ El análisis de varianza explicada confirma que **PC1 es el componente más impo
 |-------------------|-----------|-------------------|
 | **Rendimiento** | 133.96 puntos globales | Medio-bajo |
 | **Nivel socioeconómico** | Estrato 2.39, INSE 47.21 | El más bajo socioeconómicamente |
-| **Edad promedio** | ~40 años (nacimiento 1980) | Significativamente mayor |
+| **Fecha de nacimiento promedio** | Nacimiento 1980 | Significativamente mayor |
 | **Característica única** | Mayor edad con rendimiento intermedio | Posiblemente estudiantes-trabajadores |
 | **Interpretación** | Estudiantes que retoman educación superior después de tiempo, con desafíos adicionales |
 
@@ -63,7 +63,7 @@ El análisis de varianza explicada confirma que **PC1 es el componente más impo
 |-------------------|-----------|-------------------|
 | **Rendimiento** | 179.53 puntos globales | Excelente desempeño académico |
 | **Nivel socioeconómico** | Estrato 3.47, INSE 62.27 | Medio-alto, el más alto |
-| **Edad promedio** | ~24 años (nacimiento 1996) | Los más jóvenes |
+| **Fecha de nacimiento promedio** | Nacimiento 1996 | Los más jóvenes |
 | **Fortalezas destacadas** | Inglés (193.87) y Competencias ciudadanas (179.47) | Dominio sobresaliente |
 | **Interpretación** | Estudiantes de élite académica, probablemente de universidades de alto prestigio |
 
