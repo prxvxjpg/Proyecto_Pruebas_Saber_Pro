@@ -12,6 +12,8 @@ Código de las gráficas descriptivas:
 Código del algoritmo de Machine Learning PCA y K-Means:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LXBCwLxjGMZb7gqufWuxz7n9gVswOAuC?usp=drive_link) *(código con gráfica del PCA junto con K-Means interactivo)*
 
+Código del algoritmo de Machine Learning MCA:
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jV7RbtXyh8_1zFGPI1fmXhFkLR3SiDME?usp=drive_link) *(código con gráficas interactivas de MCA)*
 
 Puedes visualizar el documento PDF de las gráficas creadas aquí (De los algoritmos de ML solo tiene la gráfica del PCA, el día 20 de Diciembre se actualizará a su versión final con la página web del MCA): 
 
