@@ -12,11 +12,15 @@ Este proyecto de investigación analiza los resultados de las pruebas Saber Pro 
 Puedes visualizar el documento PDF aquí (De los algoritmos de ML solo tiene la gráfica del PCA, el día 20 de Diciembre se actualizará a su versión final): 
 [Ver PDF en Google Drive]([https://drive.google.com/...](https://drive.google.com/file/d/1N_lYwoT3htiYPBG9J1wVts9eYAcOV5eY/view?usp=drive_link))
 
+
+[![Ver PDF en Google Drive]([https://img.shields.io/badge/📄_Ver_Propuesta_Completa_PDF-FF6B6B?style=for-the-badge)](https://drive.google.com/file/d/TU-ID-DE-ARCHIVO/view?usp=sharing](https://drive.google.com/file/d/1N_lYwoT3htiYPBG9J1wVts9eYAcOV5eY/view?usp=drive_link))
+
+
 - `pandas`, `numpy` para manipulación de datos  
 - `scikit-learn` para PCA, K-Means y modelos de regresión  
 - `matplotlib`, `seaborn` para visualización  
 - `MCA` para análisis de correspondencias múltiples
-- 
+
 ---
 ## 📊 Resultados destacados  
 
