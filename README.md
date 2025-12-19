@@ -1,35 +1,96 @@
-# Análisis de las pruebas Saber Pro
+# XIII Simposio Nororiental de Matemáticas: Identificando Perfiles de Éxito Académico en Colombia con Machine Learning 📊🧮🔬
 
-## 🚀 Link de ejecución rápida para el código base de limpieza y preparación de los datos por año documentado:
-https://colab.research.google.com/drive/1AIe4LdyoFVHYP9tte5asQlRz2xHsQcRn?usp=sharing
- *(para visualizar y ejecutar los códigos)*
-
-- `Filtracion_Pruebas_Saber_Pro.ipynb` archivo .ipynb del proyecto
-
-Importante:
-- Descargar los datos `areasynucleos_sirveparafiltrar` que se encuentran en la carpeta `Data_Preparation`, también debe descargar los datos de las pruebas específicas y genéricas que se encuentran en la siguiente carpeta de Drive:
-
-https://drive.google.com/drive/folders/1kRGfHPoHS0XW2EgKuTLKB8im2Rb9yXnE?usp=sharing
-
-Los archivos se utilizan en el código de filtración.
-
-Decargue o visualice también dentro del Drive el archivo `SeleccionDeColumnas.ipynb` si quiere entender por qué seleccionamos solamente 63 columnas de base de datos entre muchas que existen.
-
-
-## 📖 Resumen
-En este proyecto se aplican métodos matemáticos y estadísticos del área de ciencia de datos para analizar el rendimiento de los estudiantes de Matemáticas y Ciencias Naturales que presentaron las pruebas Saber Pro genéricas y específicas entre 2016 y 2024. Con información oficial de DataIcfes ICFESData, se estudiará el desempeño en competencias de las 8 áreas de conocimiento y sus 56 núcleos, poniendo especial énfasis en Matemáticas y Ciencias Naturales, nuestro grupo de mayor interés. El objetivo es identificar patrones de rendimiento y realizar comparaciones socioacadémicas con estudiantes de otras áreas, aportando así una visión más clara sobre la formación matemática y científica en el contexto nacional.
-
-
-El estudio implementa un flujo de trabajo analítico secuencial que inicia con la caracterización exploratoria de los datos mediante estadísticas descriptivas y visualización, centrándose en la distribución de puntajes por área de conocimiento y las relaciones entre competencias genéricas y específicas, incluyendo tratamiento de valores atípicos, limpieza y estandarización de categorías. Posteriormente, se aplicó Análisis de Correspondencias Múltiples a variables categóricas clave para identificar dimensiones latentes que explican asociaciones socioacadémicas, seguido de clustering sobre las coordenadas factoriales para definir perfiles estudiantiles naturales. En la tercera fase, se implementó Análisis de Componentes Principales sobre los puntajes de competencias, revelando patrones subyacentes de habilidad académica. Estos resultados alimentaron modelos de regresión lineal múltiple que incorporaron los perfiles identificados para cuantificar efectos sobre el desempeño académico, finalizando con la validación robusta mediante métodos de Bootstrap para garantizar la confiabilidad de las inferencias en núcleos de conocimiento con muestras reducidas.
-
-Para el desarrollo del proyecto se emplean las siguientes librerías: pandas y numpy para manipulación y limpieza de datos; matplotlib y seaborn para visualizaciones exploratorias; prince para la implementación del Análisis de Correspondencias Múltiples; scikit-learn para la ejecución de PCA, algoritmos de clustering K-Means y métodos de Bootstrap; y statsmodels para la implementación de modelos de regresión lineal múltiple y análisis de inferencia estadística, garantizando así un entorno analítico integral y reproducible.
-
-
-
-Palabras Clave: Análisis de Correspondencias Múltiples, Análisis Multivariado, Análisis de Componentes Principales, Regresión lineal múltiple, Modelación Predictiva.
+## 📖 Descripción  
+Este proyecto de investigación analiza los resultados de las pruebas Saber Pro (2016–2024) para identificar patrones de rendimiento y perfiles académicos en estudiantes de Matemáticas y Ciencias Naturales en Colombia. Mediante técnicas de análisis multivariado (MCA, PCA) y Clustering (K-Means), se caracterizan grupos estudiantiles según su desempeño, contexto socioeconómico y variables demográficas. El estudio supera los enfoques tradicionales y ofrece una visión detallada de la diversidad académica, con implicaciones para el diseño de políticas educativas.
 
 ---
 
+## 🚀 Ejecución Rápida  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wauMUdRgnjvel9Hyuc8ClFqEPCK2NRJe?usp=drive_link) *(para visualizar y ejecutar los códigos)*
 
+- `pandas`, `numpy` para manipulación de datos  
+- `scikit-learn` para PCA, K-Means y modelos de regresión  
+- `matplotlib`, `seaborn` para visualización  
+- `MCA` para análisis de correspondencias múltiples  
 
+---
 
+## 📊 Resultados destacados  
+
+El análisis de 2.2 millones de registros reveló hallazgos clave sobre el desempeño académico en el área de Matemáticas y Ciencias Naturales:
+
+- **Cuatro perfiles estudiantiles identificados:**  
+  - *Cluster 0*: Estudiantes Promedio (37.6%), rendimiento medio, nivel socioeconómico bajo-medio.  
+  - *Cluster 1*: Estudiantes en Desventaja Académica (28.7%), menor rendimiento y estrato bajo.  
+  - *Cluster 2*: Estudiantes Adultos (12.9%), mayor edad, bajo índice socioeconómico.  
+  - *Cluster 3*: Estudiantes de Alto Rendimiento (20.8%), excelente desempeño, estrato medio-alto.  
+
+- **El 66.3% de los estudiantes** se ubican en clusters de rendimiento medio o bajo, evidenciando desigualdades socioacadémicas significativas.
+
+- **Brecha en inglés de 61.3 puntos** entre los extremos de rendimiento, reflejando disparidades en competencias lingüísticas.
+
+- **Paridad de género en habilidad académica**, aunque persiste segregación en la elección de disciplinas (menor presencia femenina en Física/Matemáticas).
+
+- **Programas aplicados** (Ciencias de la Computación, Ciencia de Datos) superan en rendimiento a Matemáticas puras en pruebas específicas.
+
+- **Disparidades regionales marcadas:** Bogotá y Santander lideran en desempeño, mientras departamentos como Atlántico y Boyacá presentan promedios bajos.
+
+---
+
+## 🧠 Habilidades demostradas  
+
+| Área | Competencias demostradas |
+|------|---------------------------|
+| **Manipulación de datos** | Limpieza, unión y clasificación de bases con `pandas` y `numpy` |
+| **Análisis multivariado** | Aplicación de **MCA** y **PCA** para reducción de dimensionalidad |
+| **Machine Learning** | Clustering con **K-Means**, modelado con regresión lineal múltiple |
+| **Visualización** | Gráficos exploratorios con `matplotlib` y `seaborn` |
+| **Interpretación estadística** | Identificación de patrones, correlaciones y perfiles latentes |
+| **Comunicación científica** | Presentación estructurada de hallazgos en contexto educativo |
+
+---
+
+## 📈 Visualizaciones incluidas  
+*(Según la metodología descrita, el estudio incluyó:)*
+
+- Gráficos de componentes principales (PCA)  
+- Distribución de clusters K-Means en espacio reducido  
+- Comparativas de rendimiento por módulo y perfil  
+- Mapas de calor de correlaciones socioacadémicas  
+- Diagramas de barras por núcleo de conocimiento y género  
+- Visualizaciones de desempeño regional e institucional  
+
+---
+
+## 📚 Fuentes de datos  
+
+- [**ICFES - DataLefes (2016–2024)**](https://www.icfes.gov.co/investigaciones/data-icfes/)  
+  Datos oficiales de pruebas Saber Pro, incluyendo puntajes genéricos, específicos y variables sociodemográficas.
+
+- **Referencias metodológicas:**  
+  - Greenacre, M. *Correspondence Analysis in Practice*  
+  - Kroese et al. *Data Science and Machine Learning: Mathematical and Statistical Methods*  
+  - Documentación de `pandas`, `scikit-learn`, `seaborn`
+
+---
+
+## 👤 Autores  
+
+**Juan Pablo Gómez Morales**  
+**Jonnathan Steven Forero Vargas**  
+**Yerson Ferney Torres Caballero**  
+
+📍 Bucaramanga, Colombia  
+📧 *Contacto: [prxvxjpg@gmail.com]*  
+
+💡 *Proyecto presentado en el XIII Simposio Nororiental de Matemáticas (2025).*
+
+---
+
+## ⭐ Cómo citar  
+
+> Gómez, J. P., Forero, J. S., & Torres, Y. F. (2025). *Rompiendo el Molde: Identificando los Diversos Perfiles de Éxito Académico en Colombia con MCA y Machine Learning*. XIII Simposio Nororiental de Matemáticas, Bucaramanga, Colombia.
+
+---
+
+¿Te gustaría que adapte este README para incluirlo en un repositorio de GitHub o para añadir más detalles técnicos?
