@@ -17,7 +17,7 @@ Este proyecto de investigación analiza los resultados de las pruebas Saber Pro 
 
 ## 📊 Resultados destacados  
 
-El análisis de 2.2 millones de registros reveló hallazgos clave sobre el desempeño académico en el área de Matemáticas y Ciencias Naturales:
+El análisis de 2.2 millones de registros reveló hallazgos clave sobre el desempeño académico a nivel nacional a lo largo de estos últimos nueve años:
 
 - **Cuatro perfiles estudiantiles identificados:**  
   - *Cluster 0*: Estudiantes Promedio (37.6%), rendimiento medio, nivel socioeconómico bajo-medio.  
@@ -42,22 +42,20 @@ El análisis de 2.2 millones de registros reveló hallazgos clave sobre el desem
 | Área | Competencias demostradas |
 |------|---------------------------|
 | **Manipulación de datos** | Limpieza, unión y clasificación de bases con `pandas` y `numpy` |
-| **Análisis multivariado** | Aplicación de **MCA** y **PCA** para reducción de dimensionalidad |
-| **Machine Learning** | Clustering con **K-Means**, modelado con regresión lineal múltiple |
+| **Machine Learning** | Clustering con **K-Means**, análisis multivariado con **MCA** y **PCA** |
 | **Visualización** | Gráficos exploratorios con `matplotlib` y `seaborn` |
 | **Interpretación estadística** | Identificación de patrones, correlaciones y perfiles latentes |
 | **Comunicación científica** | Presentación estructurada de hallazgos en contexto educativo |
 
 ---
 
-## 📈 Visualizaciones incluidas  
-*(Según la metodología descrita, el estudio incluyó:)*
+## 📈 Visualizaciones incluidas   
 
-- Gráficos de componentes principales (PCA)  
-- Distribución de clusters K-Means en espacio reducido  
+- Gráficos de componentes principales (PCA) y de correspondencias múltiples (MCA) 
+- Distribución de clusters K-Means
 - Comparativas de rendimiento por módulo y perfil  
-- Mapas de calor de correlaciones socioacadémicas  
-- Diagramas de barras por núcleo de conocimiento y género  
+- Mapas de densidad de correlaciones socioacadémicas  
+- Diagramas de barras por núcleo de conocimiento 
 - Visualizaciones de desempeño regional e institucional  
 
 ---
@@ -70,17 +68,16 @@ El análisis de 2.2 millones de registros reveló hallazgos clave sobre el desem
 - **Referencias metodológicas:**  
   - Greenacre, M. *Correspondence Analysis in Practice*  
   - Kroese et al. *Data Science and Machine Learning: Mathematical and Statistical Methods*  
-  - Documentación de `pandas`, `scikit-learn`, `seaborn`
+  - Documentación de `pandas`, `numpy`, `scikit-learn`, `seaborn`, `matplotlib`, `prince`, etc...
 
 ---
 
-## 👤 Autores  
+## 👤 Autor
 
 **Juan Pablo Gómez Morales**  
-**Jonnathan Steven Forero Vargas**  
-**Yerson Ferney Torres Caballero**  
 
-📍 Bucaramanga, Colombia  
+
+📍 Bogotá, Colombia  
 📧 *Contacto: [prxvxjpg@gmail.com]*  
 
 💡 *Proyecto presentado en el XIII Simposio Nororiental de Matemáticas (2025).*
@@ -89,8 +86,5 @@ El análisis de 2.2 millones de registros reveló hallazgos clave sobre el desem
 
 ## ⭐ Cómo citar  
 
-> Gómez, J. P., Forero, J. S., & Torres, Y. F. (2025). *Rompiendo el Molde: Identificando los Diversos Perfiles de Éxito Académico en Colombia con MCA y Machine Learning*. XIII Simposio Nororiental de Matemáticas, Bucaramanga, Colombia.
+> Juan Gómez (2025). *Rompiendo el Molde: Identificando los Diversos Perfiles de Éxito Académico en Colombia con Machine Learning*. Universidad Distrital Francisco José de Caldas, Bogotá, Colombia.
 
----
-
-¿Te gustaría que adapte este README para incluirlo en un repositorio de GitHub o para añadir más detalles técnicos?
