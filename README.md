@@ -25,15 +25,11 @@ Puedes visualizar el documento PDF de las gráficas creadas aquí (De los algori
 El análisis de 2.2 millones de registros reveló hallazgos clave sobre el desempeño académico a nivel nacional a lo largo de estos últimos nueve años:
 
 
-# 📊 Análisis Detallado de Componentes y Clusters
-
-## 🔍 **Análisis de Componentes Principales (PCA)**
-
 El análisis de varianza explicada confirma que **PC1 es el componente más importante (46.3%)**, seguido por **PC2 (14.7%)** y **PC3 (11.2%)**, representando colectivamente el **72.2%** de la varianza total.
 
 ---
 
-## 🎯 **Análisis Refinado de los Clusters Identificados**
+### 🎯 **Análisis Refinado de los Clusters Identificados**
 
 ### **📈 Cluster 0 - "Estudiantes Promedio" (37.6%)**
 | **Característica** | **Valor** | **Interpretación** |
