@@ -12,7 +12,7 @@ Código de las gráficas descriptivas:
 Documento con las gráficas creadas
 Puedes visualizar el documento PDF aquí (De los algoritmos de ML solo tiene la gráfica del PCA, el día 20 de Diciembre se actualizará a su versión final): 
 
-[![Abrir PDF](https://img.shields.io/badge/📑_Abrir_Propuesta_del_Simposio_PDF-1a237e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1N_lYwoT3htiYPBG9J1wVts9eYAcOV5eY/view?usp=drive_link)
+[![Abrir PDF](https://img.shields.io/badge/📑_Abrir PDF-1a237e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1N_lYwoT3htiYPBG9J1wVts9eYAcOV5eY/view?usp=drive_link)
 
 
 - `pandas`, `numpy` para manipulación de datos  
