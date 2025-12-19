@@ -9,8 +9,8 @@ En este estudio, analicé los resultados de las pruebas Saber Pro (2016-2024) de
 Código de las gráficas descriptivas:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wauMUdRgnjvel9Hyuc8ClFqEPCK2NRJe?usp=drive_link) *(para visualizar y ejecutar los códigos)*
 
-Documento con las gráficas creadas
-Puedes visualizar el documento PDF aquí (De los algoritmos de ML solo tiene la gráfica del PCA, el día 20 de Diciembre se actualizará a su versión final): 
+
+Puedes visualizar el documento PDF de las gráficas creadas aquí (De los algoritmos de ML solo tiene la gráfica del PCA, el día 20 de Diciembre se actualizará a su versión final): 
 
 [![Abrir PDF](https://img.shields.io/badge/Abrir_PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4285F4&color=34A853)](https://drive.google.com/file/d/1N_lYwoT3htiYPBG9J1wVts9eYAcOV5eY/view?usp=drive_link)
 
