@@ -31,40 +31,36 @@ El análisis de varianza explicada confirma que **PC1 es el componente más impo
 
 ### 🎯 **Análisis Refinado de los Clusters Identificados**
 
-### **📈 Cluster 0 - "Estudiantes Promedio" (37.6%)**
+### **📈 Cluster 0 - "Estudiantes promedio" (37.6%)**
 | **Característica** | **Valor** | **Interpretación** |
 |-------------------|-----------|-------------------|
-| **Centroide PCA** | (0.43, -0.39, 0.26) | Posición intermedia en el espacio de componentes |
 | **Rendimiento** | 153.35 puntos globales | Nivel académico medio |
 | **Nivel socioeconómico** | Estrato 2.24, INSE 51.37 | Bajo-medio |
 | **Edad promedio** | ~25 años (nacimiento 1995) | Población estudiantil típica |
 | **Fortalezas** | Inglés (154.71) y Lectura crítica (158.07) | Competencias lingüísticas sólidas |
 | **Interpretación** | Representan el grupo más numeroso del sistema educativo colombiano, con rendimiento sólido pero no excepcional |
 
-### **⚠️ Cluster 1 - "Estudiantes en Desventaja Académica" (28.7%)**
+### **⚠️ Cluster 1 - "Estudiantes en desventaja académica" (28.7%)**
 | **Característica** | **Valor** | **Interpretación** |
 |-------------------|-----------|-------------------|
-| **Centroide PCA** | (-1.99, 0.41, 0.43) | Posición extrema en el primer componente |
 | **Rendimiento** | 121.42 puntos globales | El más bajo de todos los clusters |
 | **Nivel socioeconómico** | Estrato 2.10, INSE 50.36 | Bajo |
 | **Edad promedio** | ~26 años (nacimiento 1994) | Similar al cluster promedio |
 | **Debilidades** | Todos los módulos < 133 puntos | Dificultades académicas generalizadas |
 | **Interpretación** | Estudiantes que requieren mayor apoyo educativo y nivelación académica |
 
-### **👨‍🎓 Cluster 2 - "Estudiantes Adultos" (12.9%)**
+### **👨‍🎓 Cluster 2 - "Estudiantes adultos" (12.9%)**
 | **Característica** | **Valor** | **Interpretación** |
 |-------------------|-----------|-------------------|
-| **Centroide PCA** | (-1.48, -0.40, -1.59) | Posición única en el tercer componente |
 | **Rendimiento** | 133.96 puntos globales | Medio-bajo |
 | **Nivel socioeconómico** | Estrato 2.39, INSE 47.21 | El más bajo socioeconómicamente |
 | **Edad promedio** | ~40 años (nacimiento 1980) | Significativamente mayor |
 | **Característica única** | Mayor edad con rendimiento intermedio | Posiblemente estudiantes-trabajadores |
 | **Interpretación** | Estudiantes que retoman educación superior después de tiempo, con desafíos adicionales |
 
-### **🏆 Cluster 3 - "Estudiantes de Alto Rendimiento" (20.8%)**
+### **🏆 Cluster 3 - "Estudiantes de alto rendimiento" (20.8%)**
 | **Característica** | **Valor** | **Interpretación** |
 |-------------------|-----------|-------------------|
-| **Centroide PCA** | (2.91, 0.39, -0.08) | Posición extrema opuesta al cluster 1 |
 | **Rendimiento** | 179.53 puntos globales | Excelente desempeño académico |
 | **Nivel socioeconómico** | Estrato 3.47, INSE 62.27 | Medio-alto, el más alto |
 | **Edad promedio** | ~24 años (nacimiento 1996) | Los más jóvenes |
