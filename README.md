@@ -150,21 +150,5 @@ El análisis de varianza explicada confirma que **PC1 es el componente más impo
   - Kroese et al. *Data Science and Machine Learning: Mathematical and Statistical Methods*  
   - Documentación de `pandas`, `numpy`, `scikit-learn`, `seaborn`, `matplotlib`, `prince`, etc...
 
----
 
-## 👤 Autor
-
-**Juan Pablo Gómez Morales**  
-
-
-📍 Bogotá, Colombia  
-📧 *Contacto: [prxvxjpg@gmail.com]*  
-
-💡 *Proyecto presentado en el XIII Simposio Nororiental de Matemáticas (2025).*
-
----
-
-## ⭐ Cómo citar  
-
-> Juan Gómez (2025). *Rompiendo el Molde: Identificando los Diversos Perfiles de Éxito Académico en Colombia con Machine Learning*. Universidad Distrital Francisco José de Caldas, Bogotá, Colombia.
 
