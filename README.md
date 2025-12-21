@@ -1,4 +1,4 @@
-# Identificando perfiles de éxito académico en Colombia con Machine Learning 📊🔬
+# Identificando Perfiles de Éxito Académico en Colombia con Machine Learning 📊🔬
 
 ## 📖 Descripción  
 En este estudio, analicé los resultados de las pruebas Saber Pro (2016-2024) de los estudiantes a nivel nacional y de Matemáticas y Ciencias Naturales por separado. Utilizando técnicas Machine Learning como PCA (Principal Component Analysis), MCA (Multiple Correspondence Analysis) y Clustering (K-Means), donde se identificaron cuatro perfiles estudiantiles distintos, demostrando que el "éxito académico" no es uniforme y está fuertemente influenciado por contextos socioeconómicos, generacionales y de desigualdades estructurales. El objetivo es aportar una visión más detallada para el diseño de políticas educativas en el país.
