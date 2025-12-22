@@ -15,7 +15,7 @@ Código del algoritmo de Machine Learning PCA y K-Means:
 Código del algoritmo de Machine Learning MCA:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ecIRZXfV1vBWAAVi4wCKA6mxR68XfIo1?authuser=1) *(código con gráficas interactivas de MCA, para visualizarlas es importante descargarlo y correrlo en vscode junto con los datos `Pruebas_Genericas_2016-2024_SaberPro.csv` limpios que se encuentran en el drive de abajo)*
 
-Puedes visualizar el documento PDF de las gráficas creadas aquí (Está un 90% terminado), también se encuentra la base de datos limpia y procesada (2.2 millones de filas por 71 columnas): 
+Puedes visualizar el documento PDF de las gráficas creadas aquí: 
 
 [![Abrir PDF](https://img.shields.io/badge/Abrir_PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4285F4&color=34A853)](https://drive.google.com/drive/u/1/folders/1e3Lkggwl50JskCMcWV_qXYKvx-RtO-z-)
 
