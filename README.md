@@ -17,9 +17,9 @@ Código del algoritmo de Machine Learning MCA:
 
 Puedes visualizar el documento PDF de las gráficas creadas aquí (Está un 90% terminado), también se encuentra la base de datos limpia y procesada (2.2 millones de filas por 71 columnas): 
 
-[![Abrir PDF](https://img.shields.io/badge/Abrir_PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4285F4&color=34A853)](https://drive.google.com/file/d/1N_lYwoT3htiYPBG9J1wVts9eYAcOV5eY/view?usp=drive_link)
+[![Abrir PDF](https://img.shields.io/badge/Abrir_PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4285F4&color=34A853)](https://drive.google.com/drive/u/1/folders/1e3Lkggwl50JskCMcWV_qXYKvx-RtO-z-)
 
-[![Abrir Drive](https://img.shields.io/badge/Abrir_PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4285F4&color=34A853)](https://drive.google.com/drive/u/1/folders/1e3Lkggwl50JskCMcWV_qXYKvx-RtO-z-)
+
 
 - `pandas`, `numpy` para manipulación de datos  
 - `scikit-learn` para PCA, K-Means y modelos de regresión  
