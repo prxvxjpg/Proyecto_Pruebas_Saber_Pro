@@ -149,6 +149,3 @@ El análisis de varianza explicada confirma que **PC1 es el componente más impo
   - Greenacre, M. *Correspondence Analysis in Practice*  
   - Kroese et al. *Data Science and Machine Learning: Mathematical and Statistical Methods*  
   - Documentación de `pandas`, `numpy`, `scikit-learn`, `seaborn`, `matplotlib`, `prince`, etc...
-
-
-
