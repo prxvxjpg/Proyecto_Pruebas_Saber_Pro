@@ -17,7 +17,7 @@ Código del algoritmo de Machine Learning MCA:
 
 Puedes visualizar el documento PDF de las gráficas creadas aquí: 
 
-[![Abrir PDF](https://img.shields.io/badge/Abrir_PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4285F4&color=34A853)](https://drive.google.com/drive/u/1/folders/1e3Lkggwl50JskCMcWV_qXYKvx-RtO-z-)
+[![Abrir PDF](https://img.shields.io/badge/Abrir_PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4285F4&color=34A853)](https://drive.google.com/file/d/1npoOE4lJssVwxEa9dKnMRV8pCJpSEXl8/view?usp=drive_link)
 
 
 
