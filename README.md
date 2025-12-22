@@ -19,6 +19,8 @@ Puedes visualizar el documento PDF de las gráficas creadas aquí (Está un 90% 
 
 [![Abrir PDF](https://img.shields.io/badge/Abrir_PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4285F4&color=34A853)](https://drive.google.com/file/d/1N_lYwoT3htiYPBG9J1wVts9eYAcOV5eY/view?usp=drive_link)
 
+[![Abrir Drive](https://img.shields.io/badge/Abrir_PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4285F4&color=34A853)](https://drive.google.com/drive/u/1/folders/1e3Lkggwl50JskCMcWV_qXYKvx-RtO-z-)
+
 - `pandas`, `numpy` para manipulación de datos  
 - `scikit-learn` para PCA, K-Means y modelos de regresión  
 - `matplotlib`, `seaborn` para visualización  
