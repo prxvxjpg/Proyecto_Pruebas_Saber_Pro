@@ -13,7 +13,7 @@ Código del algoritmo de Machine Learning PCA y K-Means:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LXBCwLxjGMZb7gqufWuxz7n9gVswOAuC?usp=drive_link) *(código con gráfica del PCA junto con K-Means interactivo)*
 
 Código del algoritmo de Machine Learning MCA:
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_0ReZrMqRIoQsWZN_URCz9g4zSuPw_f5?authuser=1&usp=drive_open) *(código con gráficas interactivas de MCA, para visualizarlas es importante descargarlo y correrlo en vscode junto con los datos `Pruebas_Genericas_2016-2024_SaberPro.csv` limpios que se encuentran en el drive de abajo)*
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ecIRZXfV1vBWAAVi4wCKA6mxR68XfIo1?authuser=1) *(código con gráficas interactivas de MCA, para visualizarlas es importante descargarlo y correrlo en vscode junto con los datos `Pruebas_Genericas_2016-2024_SaberPro.csv` limpios que se encuentran en el drive de abajo)*
 
 Puedes visualizar el documento PDF de las gráficas creadas aquí (Está un 90% terminado), también se encuentra la base de datos limpia y procesada (2.2 millones de filas por 71 columnas): 
 
