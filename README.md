@@ -7,15 +7,15 @@ En este estudio, analicé los resultados de las pruebas Saber Pro (2016-2024) de
 
 ## 🚀 Ejecución Rápida  
 Código de las gráficas descriptivas:
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wauMUdRgnjvel9Hyuc8ClFqEPCK2NRJe?usp=drive_link) *(el código todavía no se encuentra documentado, se subirá bien documentado el 20 de Diciembre)*
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u2yell027euCiwvkOboGbsfQM-DD9BrK?authuser=1&usp=drive_open)
 
 Código del algoritmo de Machine Learning PCA y K-Means:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LXBCwLxjGMZb7gqufWuxz7n9gVswOAuC?usp=drive_link) *(código con gráfica del PCA junto con K-Means interactivo)*
 
 Código del algoritmo de Machine Learning MCA:
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Py0arEQqCsysWAOATK5B-S_o3OPL70Fq?usp=drive_link) *(código con gráficas interactivas de MCA, este es importante descargarlo y correrlo en vscode)*
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_0ReZrMqRIoQsWZN_URCz9g4zSuPw_f5?authuser=1&usp=drive_open) *(código con gráficas interactivas de MCA, para visualizar el HTML es importante descargarlo y correrlo en vscode)*
 
-Puedes visualizar el documento PDF de las gráficas creadas aquí (De los algoritmos de ML solo tiene la gráfica del PCA, el día 20 de Diciembre se actualizará a su versión final con la página web del MCA): 
+Puedes visualizar el documento PDF de las gráficas creadas aquí (Falta agregar la información obtenida del algoritmo MCA): 
 
 [![Abrir PDF](https://img.shields.io/badge/Abrir_PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4285F4&color=34A853)](https://drive.google.com/file/d/1N_lYwoT3htiYPBG9J1wVts9eYAcOV5eY/view?usp=drive_link)
 
